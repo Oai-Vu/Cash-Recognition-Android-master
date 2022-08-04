@@ -1,0 +1,9 @@
+one
+ten
+onehundred
+two
+twenty
+twohundred
+five
+fifty
+fivehundred

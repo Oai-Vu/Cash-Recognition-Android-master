@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.camerakit:jpegkit:0.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ac8cddf2bf183eb8bd24a99367050a01/transformed/jpegkit-0.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ac8cddf2bf183eb8bd24a99367050a01/transformed/jpegkit-0.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ac8cddf2bf183eb8bd24a99367050a01/transformed/jpegkit-0.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.camerakit:camerakit:1.0.0-beta1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2ba0e2d96d78dc3531ef4c14ae9f4336/transformed/camerakit-1.0.0-beta1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2ba0e2d96d78dc3531ef4c14ae9f4336/transformed/camerakit-1.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2ba0e2d96d78dc3531ef4c14ae9f4336/transformed/camerakit-1.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2ba0e2d96d78dc3531ef4c14ae9f4336/transformed/camerakit-1.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
