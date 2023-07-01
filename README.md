@@ -6,9 +6,9 @@ A native android app to classify Vietnamese cash for the visually impaired
 
 ## Programming Languages and Libraries
 
-* [Kotlin](https://kotlinlang.org/) - Ngôn ngữ lập trình dùng để phát triển ứng dụng Android Native
-* [Tensorflow Lite](https://www.tensorflow.org/lite) - Thư viện dùng để triển khai mô hình học sâu lên ứng dụng di động
-* [CameraKit](https://camerakit.io/) - Thư viện giúp việc lập trình ứng dụng Android Native với camera trở nên dễ dàng hớn
+* [Kotlin](https://kotlinlang.org/) 
+* [Tensorflow Lite](https://www.tensorflow.org/lite) 
+* [CameraKit](https://camerakit.io/) 
 
 ## Dataset
 https://drive.google.com/drive/folders/1IeTmTYYpp-ONhsmewgjdfbuvPGF6RAka
