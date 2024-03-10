@@ -8,7 +8,8 @@ A native android app to classify Vietnamese cash for the visually impaired
 
 * [Kotlin](https://kotlinlang.org/) 
 * [Tensorflow Lite](https://www.tensorflow.org/lite) 
-* [CameraKit](https://camerakit.io/) 
+* [CameraKit](https://camerakit.io/)
+* [Android Framework](https://developer.android.com/reference)
 
 ## Dataset
 https://drive.google.com/drive/folders/1IeTmTYYpp-ONhsmewgjdfbuvPGF6RAka
